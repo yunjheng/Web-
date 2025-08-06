@@ -291,7 +291,7 @@ main {
     
 
  main.background-image2 .about_banner{
-    min-height:65vh;
+    min-height:70vh;
         background-image: url(../img/B002_04.png);
         background-size:cover;
         background-position:center;
@@ -337,7 +337,7 @@ main {
 
 
 main.background-image2 .about_banner02{
-    min-height:65vh;
+    min-height:70vh;
         background-image: url(../img/B001_04.jpg);
         background-size:cover;
         background-position:center;
