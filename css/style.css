@@ -24,7 +24,8 @@ header {
    position:sticky;
    top:0;
    z-index:10;
-   box-shadow: 0 10px 6px -6px #eeeeee;
+  
+   
 
 
     
@@ -98,16 +99,7 @@ main {
         
         
 
-        /*div.filter{
-            background-color:rgba(0,0,0,0.5);
-            width:100%;
-            min-height:70vh;
-            position:absolute;
-            top:0;
-            left:0;
-            z-index: -1;
-            }
-            */
+        
 
             .word{
                 margin-right: 10rem;
@@ -311,15 +303,7 @@ main {
         }
     
 
-        /*div.filter2{
-            background-color:rgba(0,0,0,0.5);
-            width:100%;
-            min-height:30vh;
-            position:absolute;
-            top:0;
-            left:0;
-            z-index: -1;
-            }*/
+        
 
             h3{
                 color:rgb(0, 0, 0);
@@ -357,15 +341,7 @@ main.background-image2 .about_banner02{
         }
     
 
-        /*div.filter2{
-            background-color:rgba(0,0,0,0.5);
-            width:100%;
-            min-height:30vh;
-            position:absolute;
-            top:0;
-            left:0;
-            z-index: -1;
-            }*/
+       
 
             h3{
                 color:rgb(0, 0, 0);
